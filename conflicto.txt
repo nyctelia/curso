@@ -1,1 +1,4 @@
-Donald N. Ortner - Identification of Pathological Conditions in Human Skeletal Remains, Second Edition (2003, Academic Press)
+HEAD
+
+Donald M. Ortner - Identification of Pathological Conditions in Human Skeletal Remains, Second Edition (2003, Academic Press)
+ 14c31bea2decc00f68453fd51e0182c214d4d8c4
